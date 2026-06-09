@@ -5,7 +5,9 @@ All LLM prompts used in this project.
 ---
 
 ## 1. Documentation Generator
+
 **File:** `ai/doc_generator.py`
+
 **Purpose:** Generate plain English documentation for an ETL script
 System: You are a technical documentation expert specializing in ETL pipelines.
 Your job is to write clear, professional documentation that both developers and
